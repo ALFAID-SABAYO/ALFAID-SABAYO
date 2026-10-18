@@ -26,10 +26,11 @@ I build full stack web apps with React, Next.js, Node.js and ASP.NET Core. I am 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## Featured projects
-- **SkillForge**: AI corporate training platform with 4 user roles and 4 Anthropic API features
-- **Real Estate Price Prediction (Pakistan)**: 3 ML models trained on 97,910 listings, best R² score 0.90
-- **Coursify**: Udemy-inspired learning platform in C# with roles, certificates and payments
-- **Freelance Marketplace**: PostgreSQL based jobs and bidding system with a Chart.js dashboard
+- [**SkillForge**](https://github.com/ALFAID-SABAYO/Skill-forge): AI corporate training platform with 4 user roles and 4 Anthropic API features
+- [**Real Estate Price Prediction (Pakistan)**](https://github.com/ALFAID-SABAYO/PROAI.PK): 3 ML models trained on 97,910 listings, best R² score 0.90
+- [**Hospital Management System**](https://github.com/ALFAID-SABAYO/hospital-management-system): role-based ASP.NET Core MVC app with doctor scheduling, appointments, billing and medical records
+- [**Coursify**](https://github.com/ALFAID-SABAYO/coursify-online-learning-platform): Udemy-inspired learning platform in C# with roles, certificates and payments
+- [**Freelance Marketplace**](https://github.com/ALFAID-SABAYO/freelance-marketplace-dbms): PostgreSQL based jobs and bidding system with a Chart.js dashboard
 
 ## Currently
 - Freelance frontend developer (Next.js, React, TypeScript)
