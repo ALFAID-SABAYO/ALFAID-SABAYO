@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Alfaid Sabayo
 
-<!--
-**ALFAID-SABAYO/ALFAID-SABAYO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Science student at SZABIST, Karachi.
+I build full stack web apps and I am looking for a Full Stack Developer internship.
 
-Here are some ideas to get you started:
+## What I work with
+- Languages: JavaScript, TypeScript, C#, Python
+- Frontend: React.js, Next.js, Tailwind CSS
+- Backend: Node.js, Express.js, ASP.NET Core, FastAPI
+- Databases: PostgreSQL, MySQL
+- Tools: Git, GitHub, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I am doing now
+- Working as a freelance frontend developer, building a client's website with Next.js, React and TypeScript
+- Learning Power BI
+
+## Projects
+- SkillForge: AI corporate training platform
+- Predictive AI for Real Estate Investment Analysis (Pakistan)
+- Coursify: online learning platform
+
+## Contact
+faid.sabayo@gmail.com | linkedin.com/in/alfaid-sabayo
