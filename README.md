@@ -1,11 +1,6 @@
-<h1 align="center">Alfaid Sabayo</h1>
-<p align="center">Final-year Computer Science student at SZABIST, Karachi<br>
-Full Stack Developer | Open to internship opportunities</p>
+ <h1 align="center">Alfaid Sabayo</h1> <p align="center">Final-year Computer Science student at SZABIST, Karachi<br> Full Stack Developer | Open to internship opportunities</p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/alfaid-sabayo">LinkedIn</a> |
-  <a href="mailto:faid.sabayo@gmail.com">Email</a>
-</p>
+<p align="center">   <a href="https://linkedin.com/in/alfaid-sabayo">LinkedIn</a> |   <a href="mailto:faid.sabayo@gmail.com">Email</a> |   <a href="https://portfolio-xi-sage-yegj443rpf.vercel.app/">Portfolio</a> </p>
 
 ## About me
 I build full stack web apps with React, Next.js, Node.js and ASP.NET Core. I am currently working as a freelance frontend developer, and I am learning Power BI to work with data and dashboards.
